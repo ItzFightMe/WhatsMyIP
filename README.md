@@ -1,2 +1,2 @@
 # WhatsMyIP
-Check IP Address
+Check IP Address using Html, CSS, and JS
